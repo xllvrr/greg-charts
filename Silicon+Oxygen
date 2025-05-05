@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="Page-1" id="6EcZoXhgHRBw8OsE5lDy">
-    <mxGraphModel>
+    <mxGraphModel dx="747" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-1" target="Z9BlMdSEm-taoUcaYIgM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-1" value="Rock Breaker" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-2" target="Z9BlMdSEm-taoUcaYIgM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-2" value="Forge Hammer x 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="255" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-4" target="Z9BlMdSEm-taoUcaYIgM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-4" value="Electrolyser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-6" target="Z9BlMdSEm-taoUcaYIgM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-6" value="CR" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="495" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-8" target="Z9BlMdSEm-taoUcaYIgM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-8" value="Magnesium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="635" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-10" target="Z9BlMdSEm-taoUcaYIgM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-10" value="Electrolyser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="495" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-6" target="Z9BlMdSEm-taoUcaYIgM-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="270" as="sourcePoint" />
+            <mxPoint x="425" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-13" value="Drawer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-15" value="Fluid Storage" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="635" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9BlMdSEm-taoUcaYIgM-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9BlMdSEm-taoUcaYIgM-10" target="Z9BlMdSEm-taoUcaYIgM-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="250" as="sourcePoint" />
+            <mxPoint x="445" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
