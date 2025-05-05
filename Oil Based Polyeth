@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram name="Page-1" id="4lcwpTF0n0uwu21xyZyd">
-    <mxGraphModel>
+    <mxGraphModel dx="766" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-1" target="RCGnXMxYDkA16Iwr5eQb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-1" value="Oil 60kL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-4" target="RCGnXMxYDkA16Iwr5eQb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-4" value="&lt;div&gt;Distillery&lt;/div&gt;&lt;div&gt;Circuit 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-8" target="RCGnXMxYDkA16Iwr5eQb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-8" value="&lt;div&gt;CR&lt;/div&gt;&lt;div&gt;Circuit 4&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-10" target="RCGnXMxYDkA16Iwr5eQb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-10" value="&lt;div&gt;Hydrogen&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cell x 10&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-12" target="RCGnXMxYDkA16Iwr5eQb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-12" value="&lt;div&gt;CR&lt;/div&gt;&lt;div&gt;Circuit 3&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-14" target="RCGnXMxYDkA16Iwr5eQb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-14" value="&lt;div&gt;Steam &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cell x 60&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-16" target="RCGnXMxYDkA16Iwr5eQb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-16" value="&lt;div&gt;Distillery&lt;/div&gt;&lt;div&gt;Circuit 10&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-18" value="&lt;div&gt;CR&lt;/div&gt;&lt;div&gt;Circuit 9&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCGnXMxYDkA16Iwr5eQb-20" target="RCGnXMxYDkA16Iwr5eQb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RCGnXMxYDkA16Iwr5eQb-20" value="&lt;div&gt;Oxygen&lt;/div&gt;&lt;div&gt;84kL&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
